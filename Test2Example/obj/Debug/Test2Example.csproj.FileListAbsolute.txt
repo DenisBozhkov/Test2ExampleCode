@@ -1,0 +1,7 @@
+D:\_ACER\Desktop\Test2ExampleCode\Test2Example\bin\Debug\Preparation.exe.config
+D:\_ACER\Desktop\Test2ExampleCode\Test2Example\bin\Debug\Preparation.exe
+D:\_ACER\Desktop\Test2ExampleCode\Test2Example\bin\Debug\Preparation.pdb
+D:\_ACER\Desktop\Test2ExampleCode\Test2Example\obj\Debug\Test2Example.csproj.AssemblyReference.cache
+D:\_ACER\Desktop\Test2ExampleCode\Test2Example\obj\Debug\Test2Example.csproj.CoreCompileInputs.cache
+D:\_ACER\Desktop\Test2ExampleCode\Test2Example\obj\Debug\Preparation.exe
+D:\_ACER\Desktop\Test2ExampleCode\Test2Example\obj\Debug\Preparation.pdb

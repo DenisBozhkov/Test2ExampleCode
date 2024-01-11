@@ -1,0 +1,7 @@
+D:\_ACER\Desktop\МГ\ООП\TT2\Preparation\Preparation\bin\Debug\Preparation.exe.config
+D:\_ACER\Desktop\МГ\ООП\TT2\Preparation\Preparation\bin\Debug\Preparation.exe
+D:\_ACER\Desktop\МГ\ООП\TT2\Preparation\Preparation\bin\Debug\Preparation.pdb
+D:\_ACER\Desktop\МГ\ООП\TT2\Preparation\Preparation\obj\Debug\Preparation.csproj.AssemblyReference.cache
+D:\_ACER\Desktop\МГ\ООП\TT2\Preparation\Preparation\obj\Debug\Preparation.csproj.CoreCompileInputs.cache
+D:\_ACER\Desktop\МГ\ООП\TT2\Preparation\Preparation\obj\Debug\Preparation.exe
+D:\_ACER\Desktop\МГ\ООП\TT2\Preparation\Preparation\obj\Debug\Preparation.pdb

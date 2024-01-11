@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Preparation", "..\..\МГ\ООП\TT2\Preparation\Preparation\Preparation.csproj", "{2B6FB83D-12B4-4806-A60C-411BD2DCE5B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test2Example", "Test2Example\Test2Example.csproj", "{2B6FB83D-12B4-4806-A60C-411BD2DCE5B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9A44F450-9622-4A17-83FB-8AAE9DB96049}
+		SolutionGuid = {E69A8864-C55C-4131-AC87-C506598D0D2A}
 	EndGlobalSection
 EndGlobal
